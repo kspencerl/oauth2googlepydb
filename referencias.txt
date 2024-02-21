@@ -1,3 +1,6 @@
 #Criar Database
 How to Use Databases With SQLAlchemy - Flask Fridays #8
 https://youtu.be/Q2QmST-cSwc?si=pDvFSD41ftZ0VyL3
+
+#Aplicação Flask com Google Login (OAuth 2.0)
+https://realpython.com/flask-google-login/
