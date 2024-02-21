@@ -1,0 +1,3 @@
+#Criar Database
+How to Use Databases With SQLAlchemy - Flask Fridays #8
+https://youtu.be/Q2QmST-cSwc?si=pDvFSD41ftZ0VyL3
